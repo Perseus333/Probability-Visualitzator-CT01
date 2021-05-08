@@ -2,7 +2,7 @@
 #include <cmath>
 int main() {
 	int presition;
-	std::cout << "Seleciona el nombre de cops que\n" << "vols que es fagi el test\n";
+	std::cout << "Select the number of times\n" << "you want this test to run\n";
 	std::cin >> presition;
 	for ( int a = 0; a < 4; a++) {
 		int number;
